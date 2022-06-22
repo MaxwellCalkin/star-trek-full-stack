@@ -1,23 +1,23 @@
-# Star Trek Great Website! : <a target="_blank" href="https://www.mlblineupsimulator.netlify.app">Visit Here</a>
+# Star Trek Mainframe : <a target="_blank" href="https://startrekfullstack.netlify.app/">Visit Here</a>
 
 <a target="_blank" href="https://www.maxwellcalkin.com">
 <img src="https://github.com/MaxwellCalkin/MaxwellCalkin/blob/main/images/sox.gif" width="100%" alt="Portfolio"/>
 </a>
 
-### Grab a friend and face off!  Select your favorite 9 players and see whose team will win!
+### Our ship is under attack by the Borg!  Quick, access the mainframe and dig up some info about them!
 
 ## Tech used: ![HTML5 BADGE](https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5)![CSS BADGE](https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3)![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript)
 
 
-I'm excited that I got to use the MLB Data API to fetch real stats to make this game ultra competitive for baseball fanatics. 
+This is a full stack web application that uses Heroku to host an api that pulls data from MongoDB.  The server was built using Node and Express. 
 
 ## Optimizations
 
-When I improve this project, I'll start by bringing object oriented principles into play.  There can easily be Player, Match and API classes to clean this code up BIG TIME.
+In the future I hope to add some functionality to this website.  I'd like to be able to add new alien species and update existing ones from the site itself.
 
 ## Lessons Learned:
 
-I had fun collaborating with Nirel Chua (https://twitter.com/naniitsnina_)! I got a lot of good, fun practice working with the MLB stats API, and I got to use my brother as a QA guide, using his feedback to vastly improve the game.
+I got to get some practice in connecting a MongoDB database to Heroku, and I got to get my CRUD on!
 
 
 
@@ -42,10 +42,10 @@ I had fun collaborating with Nirel Chua (https://twitter.com/naniitsnina_)! I go
         </a>
     </td>
     <td width="33.3%" valign="top">
-<a target="_blank" href="#">To The Beat</a>
+<a target="_blank" href="https://mlblineupsimulator.netlify.app/">MLB Lineup Simulator</a>
         <br />
-        <a target="_blank" href="#">
-          <img src="https://github.com/MaxwellCalkin/MaxwellCalkin/blob/main/images/biker.gif" width="100%" alt="To The Beat"/>
+        <a target="_blank" href="https://mlblineupsimulator.netlify.app/">
+          <img src="https://github.com/MaxwellCalkin/MaxwellCalkin/blob/main/images/sox.gif" width="100%" alt="MLB Lineup Simulator"/>
         </a>
     </td>
   </tr>
