@@ -1,7 +1,7 @@
 # Star Trek Mainframe : <a target="_blank" href="https://startrekfullstack.netlify.app/">Visit Here</a>
 
 <a target="_blank" href="https://www.maxwellcalkin.com">
-<img src="https://thumbs.gfycat.com/EachPositiveAmericancurl-max-1mb.gif" width="100%" alt="Portfolio"/>
+<img src="https://thumbs.gfycat.com/EachPositiveAmericancurl-size_restricted.gif" width="100%" alt="Portfolio"/>
 </a>
 
 ### Our ship is under attack by the Borg!  Quick, access the mainframe and dig up some info about them!
